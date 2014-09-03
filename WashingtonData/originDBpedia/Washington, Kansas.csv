@@ -1,0 +1,188 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/CitiesInKansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/City108524735"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Region108630985"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/CountySeatsInKansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/CountySeat108547143"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Municipality108626283"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Location100027167"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Site108651247"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Area108497294"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/GeographicalArea108574314"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/District108552138"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/City"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoGeoEntity"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PopulatedPlacesInWashingtonCounty,Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.opengis.net/gml/_Feature"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/City"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/UrbanArea108675967"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PhysicalEntity100001930"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.w3.org/2002/07/owl#Thing"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoLegalActorGeo"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://umbel.org/umbel/rc/City"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Seat108647945"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Object100002684"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Tract108673395"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Center108523483"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://sr.dbpedia.org/resource/Вашингтон_(Канзас)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://ht.dbpedia.org/resource/Washington,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q2184036"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://nl.dbpedia.org/resource/Washington_(Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://vi.dbpedia.org/resource/Washington,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://www.rdfabout.com/rdf/usgov/geo/us/ks/counties/washington_county/washington"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://fr.dbpedia.org/resource/Washington_(Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://vo.dbpedia.org/resource/Washington_(Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://uz.dbpedia.org/resource/Washington_(Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://yago-knowledge.org/resource/Washington,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://rdf.freebase.com/ns/m.0tccq"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://sws.geonames.org/4281313/"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://fa.dbpedia.org/resource/واشینگتن،_کانزاس"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://ca.dbpedia.org/resource/Washington_(Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://pt.dbpedia.org/resource/Washington_(Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Washington_(Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Populated_places_in_Washington_County,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:County_seats_in_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","2.36"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","2.35688918040576"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","501.9"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","501.9328061051797"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/abstract","Washington is een plaats in de Amerikaanse staat Kansas en valt bestuurlijk gezien onder Washington County."
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/abstract","La ville de Washington est le siège du comté de Washington, situé dans le Kansas, aux États-Unis."
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/abstract","Washington es una ciudad ubicada en el condado de Washington el estado estadounidense de Kansas. En el año 2010 tenía una población de 1131 habitantes y una densidad poblacional de 491,74 personas por km²."
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/abstract","Washington é uma cidade localizada no estado americano de Kansas, no Condado de Washington."
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/abstract","Washington is a city in and the county seat of Washington County, Kansas, United States. As of the 2010 census, the city population was 1,131."
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/areaCode","785"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/areaLand",2253289.65599232
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/areaLand",2250000
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/areaTotal",2356889.18040576
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/areaTotal",2360000
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/areaWater",103599.52441344
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/areaWater",100000
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/country","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/elevation",403.86
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/elevation",404
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/populationDensity",501.9328061051797
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/populationDensity",501.9
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/populationTotal",1131
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/postalCode","66968"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/Central_Time_Zone_(North_America)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/utcOffset","-6"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageID",114996
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageRevisionID",548609362
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#label","Washington (Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#label","Washington, Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#label","Washington (Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#label","Washington (Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#label","Washington (Kansas)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://xmlns.com/foaf/0.1/depiction","http://upload.wikimedia.org/wikipedia/commons/6/62/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#comment","Washington es una ciudad ubicada en el condado de Washington el estado estadounidense de Kansas. En el año 2010 tenía una población de 1131 habitantes y una densidad poblacional de 491,74 personas por km²."
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#comment","Washington é uma cidade localizada no estado americano de Kansas, no Condado de Washington."
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#comment","Washington is a city in and the county seat of Washington County, Kansas, United States. As of the 2010 census, the city population was 1,131."
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#comment","Washington is een plaats in de Amerikaanse staat Kansas en valt bestuurlijk gezien onder Washington County."
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2000/01/rdf-schema#comment","La ville de Washington est le siège du comté de Washington, situé dans le Kansas, aux États-Unis."
+"http://dbpedia.org/resource/Washington,_Kansas","http://xmlns.com/foaf/0.1/name","Washington, Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Washington_County,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/thumbnail","http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg/200px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg.png"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/type","http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.census.gov/prod/www/abs/decennial/"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.archive.org/download/kansascyc01blac/kansascyc01blac.pdf"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.archive.org/download/kansascyclopedia03blac/kansascyclopedia03blac.pdf"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.archive.org/download/kansascycloped02blac/kansascycloped02blac.pdf"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.usd108.org/"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.lkm.org/directory/cities.php?ID=96"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.WashingtonKS.net/"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.kancoll.org/books/cutler/"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.ksdot.org/burtransplan/maps/city-pdf/washington.pdf"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.ksdot.org/burtransplan/maps/county-pdf/washington.PDF"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/areaCode",785
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/areaLandKm",2.25
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/areaLandSqMi",0.87
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/areaTotalKm",2.36
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/areaTotalSqMi",0.91
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/areaWaterKm",0.1
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/areaWaterSqMi",0.04
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/blank1Info",472880
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/blankInfo",20
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/coordinatesDisplay","display=inline,title"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/coordinatesRegion","US-KS"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/elevationFt",1325
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/elevationM",404
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/imageMap","Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/imageMap","Map of Washington Co, Ks, USA.png"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/latd",39
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/latm",49
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/lats",1
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/longd",97
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/longm",3
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/longs",9
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/mapCaption","Location of Washington, Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/mapsize",250
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/officialName","Washington, Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/popEstAsOf",2011
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/populationAsOf",2010
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/populationDensityKm",501.9
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/populationDensitySqMi",1300
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/populationEst",1140
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/populationTotal",1131
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/postalCode",66968
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/postalCodeType","http://dbpedia.org/resource/ZIP_code"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/settlementType","http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Washington_County,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/Political_divisions_of_the_United_States"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_sovereign_states"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/Central_Time_Zone_(North_America)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/timezoneDst","CDT"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/unitPref","Imperial"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/utcOffset",-6
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/utcOffsetDst",-5
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/website","http://www.WashingtonKS.net/"
+"http://dbpedia.org/resource/Washington,_Kansas","http://xmlns.com/foaf/0.1/homepage","http://www.WashingtonKS.net/"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-97.0525 39)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-97 39.8169)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-97 39)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-97.0525 39.8169)"
+"http://dbpedia.org/resource/Washington,_Kansas","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Washington,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#long","-97"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#long","-97.05249786376953"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#lat","39"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2003/01/geo/wgs84_pos#lat","39.81694412231445"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/ns/prov#wasDerivedFrom","http://en.wikipedia.org/wiki/Washington,_Kansas?oldid=548609362"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.georss.org/georss/point","39.0 -97.0"
+"http://dbpedia.org/resource/Washington,_Kansas","http://www.georss.org/georss/point","39.816944444444445 -97.0525"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Washington,_Kansas"
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageInLinkCount",33
+"http://dbpedia.org/resource/Washington,_Kansas","http://dbpedia.org/ontology/wikiPageOutLinkCount",44
+"http://dbpedia.org/resource/Washington","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Washington,_Kansas"
+"http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Kansas","http://dbpedia.org/property/city","http://dbpedia.org/resource/Washington,_Kansas"
+"http://es.dbpedia.org/resource/Washington_(Kansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://dbpedia.org/resource/Washington_County,_Kansas","http://dbpedia.org/ontology/countySeat","http://dbpedia.org/resource/Washington,_Kansas"
+"http://dbpedia.org/resource/Kansas_State_Wildcats_football,_1900%E2%80%9309","http://dbpedia.org/property/siteCityst","http://dbpedia.org/resource/Washington,_Kansas"
+"http://dbpedia.org/resource/Washington,_KS","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Washington,_Kansas"
+"http://en.wikipedia.org/wiki/Washington,_Kansas","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Washington,_Kansas"
+"http://fr.dbpedia.org/resource/Washington_(Kansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://pt.dbpedia.org/resource/Washington_(Kansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://nl.dbpedia.org/resource/Washington_(Kansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://wikidata.dbpedia.org/resource/Q2184036","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://ca.dbpedia.org/resource/Washington_(Kansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://fa.dbpedia.org/resource/واشینگتن،_کانزاس","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://sr.dbpedia.org/resource/Вашингтон_(Канзас)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://uz.dbpedia.org/resource/Washington_(Kansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://vi.dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://ht.dbpedia.org/resource/Washington,_Kansas","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"
+"http://vo.dbpedia.org/resource/Washington_(Kansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Kansas"

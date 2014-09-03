@@ -1,0 +1,166 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/City108524735"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/City"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PopulatedPlacesInHempsteadCounty,Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoLegalActorGeo"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/StateCapital108695539"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://umbel.org/umbel/rc/City"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.opengis.net/gml/_Feature"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Tract108673395"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/City"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/District108552138"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Center108523483"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Area108497294"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Municipality108626283"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PopulatedPlacesInArkansasWithAfricanAmericanMajorityPopulations"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Seat108647945"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Site108651247"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Object100002684"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.w3.org/2002/07/owl#Thing"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1824"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Capital108518505"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/UrbanArea108675967"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/GeographicalArea108574314"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PhysicalEntity100001930"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Region108630985"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoGeoEntity"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Location100027167"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/CitiesInArkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://nl.dbpedia.org/resource/Washington_(Arkansas)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://sr.dbpedia.org/resource/Вашингтон_(Арканзас)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://sws.geonames.org/4135386/"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://rdf.freebase.com/ns/m.0qtk5"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://yago-knowledge.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Washington_(Arkansas)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q79281"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://uz.dbpedia.org/resource/Washington_(Arkansas)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://fr.dbpedia.org/resource/Washington_(Arkansas)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://www.rdfabout.com/rdf/usgov/geo/us/ar/counties/hempstead_county/ozan_township/washington"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://vi.dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Populated_places_in_Hempstead_County,_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Populated_places_established_in_1824"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Populated_places_in_Arkansas_with_African_American_majority_populations"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Hope_micropolitan_area"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Former_United_States_state_capitals"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","2.589988110336"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","2.6"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","56.9"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","57.143119464281995"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/abstract","Washington is a city in Hempstead County, Arkansas, United States. The population was 148 at the 2000 census. It is part of the Hope Micropolitan Statistical Area."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/abstract","Washington is een city in Hempstead County, Arkansas. In 2000 had de city een totale bevolking van 148. Het stadje heeft een oppervlakte van 2,6 km²."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/abstract","Washington es una ciudad ubicada en el condado de Hempstead en el estado estadounidense de Arkansas. En el Censo de 2010 tenía una población de 180 habitantes y una densidad poblacional de 69,08 personas por km²."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/abstract","Le village de Washington est situé dans le comté de Hempstead, dans l’État de l'Arkansas, aux États-Unis. Lors du recensement de 2000, sa population s’élevait à 148 habitants."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/areaCode","870"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/areaLand",2600000
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/areaLand",2589988.110336
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/areaTotal",2600000
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/areaTotal",2589988.110336
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/areaWater",0
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/country","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/elevation",135.9408
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/elevation",136
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/populationDensity",57.14311946428199
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/populationDensity",56.9
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/populationTotal",148
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/postalCode","71862"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/Central_Time_Zone_(North_America)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/utcOffset","-6"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageID",107018
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageRevisionID",541334535
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#label","Washington (Arkansas)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#label","Washington (Arkansas)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#label","Washington, Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#label","Washington (Arkansas)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://xmlns.com/foaf/0.1/depiction","http://upload.wikimedia.org/wikipedia/commons/6/62/Hempstead_County_Arkansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#comment","Le village de Washington est situé dans le comté de Hempstead, dans l’État de l'Arkansas, aux États-Unis. Lors du recensement de 2000, sa population s’élevait à 148 habitants."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#comment","Washington is een city in Hempstead County, Arkansas. In 2000 had de city een totale bevolking van 148. Het stadje heeft een oppervlakte van 2,6 km²."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#comment","Washington is a city in Hempstead County, Arkansas, United States. The population was 148 at the 2000 census. It is part of the Hope Micropolitan Statistical Area."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2000/01/rdf-schema#comment","Washington es una ciudad ubicada en el condado de Hempstead en el estado estadounidense de Arkansas. En el Censo de 2010 tenía una población de 180 habitantes y una densidad poblacional de 69,08 personas por km²."
+"http://dbpedia.org/resource/Washington,_Arkansas","http://xmlns.com/foaf/0.1/name","Washington, Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Hempstead_County,_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/thumbnail","http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hempstead_County_Arkansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg/200px-Hempstead_County_Arkansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg.png"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/type","http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.civilwarbuff.org/washington.html"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://asms.k12.ar.us/armem/deloney/mem3.htm"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://asms.k12.ar.us/armem/deloney/mem4.htm"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageExternalLink","http://asms.k12.ar.us/armem/deloney/mem5.htm"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/areaCode",870
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/areaLandKm",2.6
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/areaLandSqMi",1
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/areaTotalKm",2.6
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/areaTotalSqMi",1
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/areaWaterKm",0
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/areaWaterSqMi",0
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/blank1Info",78702
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/blankInfo",5
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/coordinatesDisplay","inline,title"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/coordinatesType","region:US_type:city"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/elevationFt",446
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/elevationM",136
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/imageMap","Hempstead_County_Arkansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/latd",33
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/latm",46
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/lats",29
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/longd",93
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/longm",40
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/longs",53
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/mapCaption","Location in Hempstead County and the state of Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/mapsize",250
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/officialName","Washington, Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/populationAsOf",2000
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/populationDensityKm",56.9
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/populationDensitySqMi",148
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/populationTotal",148
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/postalCode",71862
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/postalCodeType","http://dbpedia.org/resource/ZIP_code"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/settlementType","http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Hempstead_County,_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/U.S._state"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_sovereign_states"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/Central_Time_Zone_(North_America)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/timezoneDst","CDT"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/utcOffset",-6
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/utcOffsetDst",-5
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-93.6814 33.7747)"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Washington,_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2003/01/geo/wgs84_pos#long","-93.68138885498047"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2003/01/geo/wgs84_pos#lat","33.77472305297852"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/ns/prov#wasDerivedFrom","http://en.wikipedia.org/wiki/Washington,_Arkansas?oldid=541334535"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://www.georss.org/georss/point","33.77472222222222 -93.68138888888889"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Washington,_Arkansas"
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageInLinkCount",64
+"http://dbpedia.org/resource/Washington,_Arkansas","http://dbpedia.org/ontology/wikiPageOutLinkCount",69
+"http://dbpedia.org/resource/James_Kimbrough_Jones","http://dbpedia.org/ontology/deathPlace","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/James_Kimbrough_Jones","http://dbpedia.org/property/placeOfDeath","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Washington","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Confederate_State_Capitol_building_(Arkansas)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Confederate_State_Capitol_building_(Arkansas)","http://dbpedia.org/property/location","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Hempstead_County,_Arkansas","http://dbpedia.org/property/city","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://fr.dbpedia.org/resource/Washington_(Arkansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Historic_Washington_State_Park","http://dbpedia.org/property/city","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Historic_Washington_State_Park","http://dbpedia.org/property/etymology","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://dbpedia.org/resource/Washington,_AR","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://en.wikipedia.org/wiki/Washington,_Arkansas","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://es.dbpedia.org/resource/Washington_(Arkansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://nl.dbpedia.org/resource/Washington_(Arkansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://wikidata.dbpedia.org/resource/Q79281","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://sr.dbpedia.org/resource/Вашингтон_(Арканзас)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://uz.dbpedia.org/resource/Washington_(Arkansas)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Arkansas"
+"http://vi.dbpedia.org/resource/Washington,_Arkansas","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Arkansas"

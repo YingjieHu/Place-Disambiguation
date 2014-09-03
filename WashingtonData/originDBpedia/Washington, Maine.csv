@@ -1,0 +1,153 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Region108630985"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoLegalActorGeo"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoGeoEntity"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.opengis.net/gml/_Feature"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/District108552138"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Municipality108626283"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.w3.org/2002/07/owl#Thing"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/UrbanArea108675967"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/GeographicalArea108574314"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/TownsInKnoxCounty,Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Object100002684"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Town108665504"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Location100027167"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PhysicalEntity100001930"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Town"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q3448011"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://sws.geonames.org/4982172/"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://kk.dbpedia.org/resource/Вашингтон_(Мэн)"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://ca.dbpedia.org/resource/Washington_(Maine)"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://ht.dbpedia.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://rdf.freebase.com/ns/m.0tqlf"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://vo.dbpedia.org/resource/Washington_(Maine)"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Washington_(Maine)"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://yago-knowledge.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Towns_in_Knox_County,_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","101.5275339251712"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","101.53"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","15.48269655755208"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","15.5"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/abstract","Washington es un pueblo ubicado en el condado de Knox en el estado estadounidense de Maine. En el Censo de 2010 tenía una población de 1.527 habitantes y una densidad poblacional de 15,04 personas por km²."
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/abstract","Washington is a town in Knox County, Maine, United States. The population was 1,527 at the 2010 census."
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/areaCode","207"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/areaLand",98523147.71718144
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/areaLand",98520000
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/areaTotal",101530000
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/areaTotal",101527533.9251712
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/areaWater",3000000
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/areaWater",3004386.20798976
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/country","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/elevation",103
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/elevation",103.0224
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/foundingDate",1811-02-27
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/populationDensity",15.48269655755208
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/populationDensity",15.5
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/populationTotal",1527
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/postalCode","04574"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/utcOffset","-4"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageID",116049
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageRevisionID",541335025
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2000/01/rdf-schema#label","Washington, Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2000/01/rdf-schema#label","Washington (Maine)"
+"http://dbpedia.org/resource/Washington,_Maine","http://xmlns.com/foaf/0.1/depiction","http://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Washington,_Maine.gif"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2000/01/rdf-schema#comment","Washington es un pueblo ubicado en el condado de Knox en el estado estadounidense de Maine. En el Censo de 2010 tenía una población de 1.527 habitantes y una densidad poblacional de 15,04 personas por km²."
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2000/01/rdf-schema#comment","Washington is a town in Knox County, Maine, United States. The population was 1,527 at the 2010 census."
+"http://dbpedia.org/resource/Washington,_Maine","http://xmlns.com/foaf/0.1/name","Washington, Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Knox_County,_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/thumbnail","http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Washington,_Maine.gif/200px-Flag_of_Washington,_Maine.gif"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/type","http://dbpedia.org/resource/New_England_town"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.gibbslibrary.org/"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageExternalLink","http://washingtonme.govoffice.com/"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.mainegenealogy.net/individual_place_record.asp?place=washington"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.downtownartgallery.com/"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/areaCode",207
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/areaLandKm",98.52
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/areaLandSqMi",38.04
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/areaTotalKm",101.53
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/areaTotalSqMi",39.2
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/areaWaterKm",3
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/areaWaterSqMi",1.16
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/blank1Info",582792
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/blankInfo",23
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/coordinatesRegion","US-ME"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/elevationFt",338
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/elevationM",103
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/establishedDate",1811-02-27
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/establishedDate",1797
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/establishedTitle","Incorporated"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/establishedTitle","Settled"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/imageFlag","Flag of Washington, Maine.gif"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/imageSeal","Seal of Washington, Maine.png"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/latd",44
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/latm",16
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/lats",23
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/longd",69
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/longm",23
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/longs",8
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/officialName","Washington, Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/popEstAsOf",2011
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/populationAsOf",2010
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/populationDensityKm",15.5
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/populationDensitySqMi",40.1
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/populationEst",1525
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/populationTotal",1527
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/postalCode",4574
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/postalCodeType","http://dbpedia.org/resource/ZIP_code"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/pushpinLabelPosition","left"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/pushpinMap","Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/pushpinMapCaption","Location within the state of Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/settlementType","http://dbpedia.org/resource/New_England_town"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Knox_County,_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/Political_divisions_of_the_United_States"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_sovereign_states"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/timezoneDst","EDT"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/unitPref","Imperial"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/utcOffset",-5
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/utcOffsetDst",-4
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-69.3672 44.2731)"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-69.3672 44.2736)"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-69.3856 44.2736)"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-69.3856 44.2731)"
+"http://dbpedia.org/resource/Washington,_Maine","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Washington,_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#long","-69.38555908203125"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#long","-69.36722564697266"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#lat","44.27361297607422"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2003/01/geo/wgs84_pos#lat","44.27305603027344"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.w3.org/ns/prov#wasDerivedFrom","http://en.wikipedia.org/wiki/Washington,_Maine?oldid=541335025"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.georss.org/georss/point","44.27361111111111 -69.36722222222222"
+"http://dbpedia.org/resource/Washington,_Maine","http://www.georss.org/georss/point","44.27305555555556 -69.38555555555556"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Washington,_Maine"
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageInLinkCount",22
+"http://dbpedia.org/resource/Washington,_Maine","http://dbpedia.org/ontology/wikiPageOutLinkCount",44
+"http://dbpedia.org/resource/Washington","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Alonzo_Bowman","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Alonzo_Bowman","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Alonzo_Bowman","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Washington,_Maine"
+"http://es.dbpedia.org/resource/Washington_(Maine)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Medomak_Camp","http://dbpedia.org/property/location","http://dbpedia.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Clyde_Sukeforth","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Washington,_Maine"
+"http://dbpedia.org/resource/Washington,_ME","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Washington,_Maine"
+"http://en.wikipedia.org/wiki/Washington,_Maine","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Washington,_Maine"
+"http://wikidata.dbpedia.org/resource/Q3448011","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Maine"
+"http://ca.dbpedia.org/resource/Washington_(Maine)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Maine"
+"http://kk.dbpedia.org/resource/Вашингтон_(Мэн)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Maine"
+"http://ht.dbpedia.org/resource/Washington,_Maine","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Maine"
+"http://vo.dbpedia.org/resource/Washington_(Maine)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Maine"

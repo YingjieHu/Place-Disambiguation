@@ -1,0 +1,171 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/CountySeatsInVirginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/GeographicalArea108574314"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Tract108673395"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Location100027167"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Site108651247"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoLegalActorGeo"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Center108523483"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/CountySeat108547143"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PhysicalEntity100001930"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Region108630985"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Town"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/PopulatedPlacesInRappahannockCounty,Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/TownsInVirginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/YagoGeoEntity"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Area108497294"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/UrbanArea108675967"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Object100002684"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/District108552138"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.w3.org/2002/07/owl#Thing"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Town108665504"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Municipality108626283"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/class/yago/Seat108647945"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.opengis.net/gml/_Feature"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Washington_(Virginia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://uz.dbpedia.org/resource/Washington_(Virginia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://sr.dbpedia.org/resource/Вашингтон_(Вирџинија)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://www.rdfabout.com/rdf/usgov/geo/us/va/counties/rappahannock_county/hampton_district/washington"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://ht.dbpedia.org/resource/Washington,_Vijini"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://vo.dbpedia.org/resource/Washington_(Virginia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://rdf.freebase.com/ns/m.010nst"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://fr.dbpedia.org/resource/Washington_(Virginie)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://simple.dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q1373453"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://nl.dbpedia.org/resource/Washington_(Virginia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://ca.dbpedia.org/resource/Washington_(Virgínia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://pt.dbpedia.org/resource/Washington_(Virgínia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://yago-knowledge.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://sws.geonames.org/4792307/"
+"http://dbpedia.org/resource/Washington,_Virginia","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Towns_in_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Populated_places_in_Rappahannock_County,_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:County_seats_in_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","0.7"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","0.7769964331008"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/abstract","Washington é uma cidade localizada no estado norte-americano de Virginia, no Condado de Rappahannock."
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/abstract","Washington is een plaats in de Amerikaanse staat Virginia, en valt bestuurlijk gezien onder Rappahannock County."
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/abstract","Washington es un pueblo situado en el condado de Rappahannock, Virginia . Según el censo de 2010 tenía una población de 135 habitantes."
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/abstract","Washington is a town in Rappahannock County, Virginia. It is noted for being the oldest of the 28 towns and villages by the name of Washington in the United States of America. The site of this town was surveyed by George Washington himself in July 1749. Its population was just 135 people at the 2010 census, down from 183 in the 2000 census. It is also the county seat of Rappahannock County. It is nicknamed Little Washington to avoid confusion because of its proximity to Washington, D.C. , which lies only 70 miles to the north east."
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/abstract","Washington est la ville et le siège du comté de Rappahannock dans l'état de Virginie. Elle est connue pour être la plus ancienne des 28 villes des États-Unis à porter le nom de Washington. Le site où elle s'est établie, au pied des montagnes Blue Ridge a été visité par George Washington lui-même en 1749. Son surnom est Little Washington pour éviter la confusion avec Washington, la capitale voisine de 110 km."
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/areaCode","540"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/areaLand",700000
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/areaLand",776996.4331008
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/areaTotal",776996.4331008
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/areaTotal",700000
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/areaWater",0
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/elevation",208
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/elevation",207.8736
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/populationTotal",135
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/postalCode","22747"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/utcOffset","-4"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/wikiPageID",137738
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/wikiPageRevisionID",541750369
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#label","Washington (Virginia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#label","Washington (Virginia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#label","Washington (Virgínia)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#label","Washington, Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#label","Washington (Virginie)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://xmlns.com/foaf/0.1/depiction","http://upload.wikimedia.org/wikipedia/commons/d/d7/DowntownWashingtonVA.jpg"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#comment","Washington est la ville et le siège du comté de Rappahannock dans l'état de Virginie. Elle est connue pour être la plus ancienne des 28 villes des États-Unis à porter le nom de Washington. Le site où elle s'est établie, au pied des montagnes Blue Ridge a été visité par George Washington lui-même en 1749. Son surnom est Little Washington pour éviter la confusion avec Washington, la capitale voisine de 110 km."
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#comment","Washington é uma cidade localizada no estado norte-americano de Virginia, no Condado de Rappahannock."
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#comment","Washington es un pueblo situado en el condado de Rappahannock, Virginia . Según el censo de 2010 tenía una población de 135 habitantes."
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#comment","Washington is a town in Rappahannock County, Virginia. It is noted for being the oldest of the 28 towns and villages by the name of Washington in the United States of America. The site of this town was surveyed by George Washington himself in July 1749. Its population was just 135 people at the 2010 census, down from 183 in the 2000 census. It is also the county seat of Rappahannock County. It is nicknamed Little Washington to avoid confusion because of its proximity to Washington, D.C."
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2000/01/rdf-schema#comment","Washington is een plaats in de Amerikaanse staat Virginia, en valt bestuurlijk gezien onder Rappahannock County."
+"http://dbpedia.org/resource/Washington,_Virginia","http://xmlns.com/foaf/0.1/name","Washington, Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Rappahannock_County,_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/thumbnail","http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DowntownWashingtonVA.jpg/200px-DowntownWashingtonVA.jpg"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/areaCode",540
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/areaLandKm",0.7
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/areaLandSqMi",0.3
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/areaTotalKm",0.7
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/areaTotalSqMi",0.3
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/areaWaterKm",0
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/areaWaterSqMi",0
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/blank1Info",1500280
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/blankInfo",51
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/coordinatesDisplay","inline,title"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/coordinatesType","region:US_type:city"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/elevationFt",682
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/elevationM",208
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/imageCaption","Central intersection in Washington"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/imageMap","VAMap-doton-Washington.PNG"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/imageSkyline","DowntownWashingtonVA.jpg"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/imagesize",250
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/latd",38
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/latm",42
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/lats",46
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/longd",78
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/longm",9
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/longs",34
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/mapCaption","Location of Washington, Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/mapsize",250
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/namedFor","http://dbpedia.org/resource/George_Washington"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/officialName","Washington, Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/populationAsOf",2010
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/populationTotal",135
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/postalCode",22747
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/postalCodeType","http://dbpedia.org/resource/ZIP_code"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/settlementType","Town"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/subdivisionName","United States"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Rappahannock_County,_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/subdivisionType","Country"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/subdivisionType","State"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/Eastern_Time_Zone"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/timezoneDst","EDT"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/unitPref","Imperial"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/utcOffset",-5
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/utcOffsetDst",-4
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2003/01/geo/wgs84_pos#geometry","POINT(-78.1594 38.7128)"
+"http://dbpedia.org/resource/Washington,_Virginia","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Washington,_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2003/01/geo/wgs84_pos#long","-78.15944671630859"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2003/01/geo/wgs84_pos#lat","38.71277618408203"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/ns/prov#wasDerivedFrom","http://en.wikipedia.org/wiki/Washington,_Virginia?oldid=541750369"
+"http://dbpedia.org/resource/Washington,_Virginia","http://www.georss.org/georss/point","38.71277777777778 -78.15944444444445"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Washington,_Virginia"
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/wikiPageInLinkCount",55
+"http://dbpedia.org/resource/Washington,_Virginia","http://dbpedia.org/ontology/wikiPageOutLinkCount",37
+"http://dbpedia.org/resource/U.S._Route_211","http://dbpedia.org/property/location","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/The_Inn_at_Little_Washington","http://dbpedia.org/property/city","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Curry_Carter","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Curry_Carter","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Curry_Carter","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Washington","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/James_C._Miller_III","http://dbpedia.org/ontology/residence","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/James_C._Miller_III","http://dbpedia.org/property/residence","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Calvert_Mill/Washington_Mill","http://dbpedia.org/ontology/nearestCity","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Calvert_Mill/Washington_Mill","http://dbpedia.org/property/nearestCity","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Rappahannock_County,_Virginia","http://dbpedia.org/ontology/countySeat","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Rappahannock_County,_Virginia","http://dbpedia.org/property/seat","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Rappahannock_County_High_School","http://dbpedia.org/ontology/city","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Rappahannock_County_High_School","http://dbpedia.org/property/city","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Rappahannock_County,_Virginia","http://dbpedia.org/property/city","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Washington_(VA)","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Patrick_O'Connell_(chef)","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Washington,_Virginia"
+"http://dbpedia.org/resource/Washington,_VA","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Washington,_Virginia"
+"http://en.wikipedia.org/wiki/Washington,_Virginia","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Washington,_Virginia"
+"http://es.dbpedia.org/resource/Washington_(Virginia)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://pt.dbpedia.org/resource/Washington_(Virgínia)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://fr.dbpedia.org/resource/Washington_(Virginie)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://nl.dbpedia.org/resource/Washington_(Virginia)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://wikidata.dbpedia.org/resource/Q1373453","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://ca.dbpedia.org/resource/Washington_(Virgínia)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://simple.dbpedia.org/resource/Washington,_Virginia","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://sr.dbpedia.org/resource/Вашингтон_(Вирџинија)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://uz.dbpedia.org/resource/Washington_(Virginia)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://ht.dbpedia.org/resource/Washington,_Vijini","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
+"http://vo.dbpedia.org/resource/Washington_(Virginia)","http://www.w3.org/2002/07/owl#sameAs","http://dbpedia.org/resource/Washington,_Virginia"
