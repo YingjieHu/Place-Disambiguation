@@ -1,0 +1,172 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Beth_Chapman","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Beth_Chapman","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/UN/LOCODE:USGRN","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Alabama_State_Route_245","http://dbpedia.org/ontology/routeStart","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Alabama_State_Route_245","http://dbpedia.org/ontology/routeEnd","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Al","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/WGYV","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Phil_Hancock","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Marty_Raybon","http://dbpedia.org/ontology/hometown","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Marty_Raybon","http://dbpedia.org/property/origin","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/First_Presbyterian_Church_(Greenville,_Alabama)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/My_Kind_of_Town_(TV_series)","http://dbpedia.org/property/title","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Mark_Matthews","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Mark_Matthews","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Mark_Matthews","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Lewis_B._Porterfield","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Lewis_B._Porterfield","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Lewis_B._Porterfield","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Alabama_State_Route_263","http://dbpedia.org/ontology/routeStart","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Greenville","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Wikidata:Q532"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.opengis.net/gml/_Feature"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/d0:Location"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/City"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/City"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2000/01/rdf-schema#label","Greenville, Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2000/01/rdf-schema#comment","Template:Infobox settlementGreenville is a city in Butler County, Alabama, United States. At the 2010 census, the population was 8,135. The city is the county seat of Butler County and is known as the Camellia City. The movement to change the official Alabama state flower from the goldenrod to the camellia originated in Greenville."
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2000/01/rdf-schema#comment","Greenville is a city in Butler County, Alabama, United States. At the 2010 census, the population was 8,135. The city is the county seat of Butler County and is known as the Camellia City. The movement to change the official Alabama state flower from the goldenrod to the camellia originated in Greenville."
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://it.dbpedia.org/resource/Greenville_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://nl.dbpedia.org/resource/Greenville_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Greenville_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://de.dbpedia.org/resource/Greenville_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://pl.dbpedia.org/resource/Greenville_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q79362"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://pt.dbpedia.org/resource/Greenville_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://fr.dbpedia.org/resource/Greenville_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2002/07/owl#sameAs","http://www.rdfabout.com/rdf/usgov/geo/us/al/counties/butler_county/greenville"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Greenville,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/areaCodeType","http://dbpedia.org/resource/North_American_Numbering_Plan"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://xmlns.com/foaf/0.1/homepage","http://www.greenville-alabama.com"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Greenville,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageRevisionID",619093003
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageID",101170
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Butler_County,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Reflist"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Infobox_settlement"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Coord"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Convert"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Citation_needed"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/imagesize",250
+"http://dbpedia.org/resource/Greenville,_Alabama","http://xmlns.com/foaf/0.1/nick","Camellia City"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/populationTotal",8135
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/elevation",134
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/elevation",134.112
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/populationAsOf",2010
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/imageCaption","Butler County Courthouse in Greenville"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/establishedTitle","Founded"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://xmlns.com/foaf/0.1/name","Greenville, Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","147.1"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/populationDensity",147.1
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/areaTotal",55800000
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","55.8"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/leaderTitle","Mayor"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/leaderTitle","Mayor"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/longd",86
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/latm",49
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/longm",37
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/utcOffset",-6
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/governmentType","Mayor/Council"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/latd",31
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/establishedDate",1819
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/imageMap","Butler_County_Alabama_Incorporated_and_Unincorporated_areas_Greenville_Highlighted.svg"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/leaderName","Dexter McLendon"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/populationDensityKm",147.1
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/Central_Time_Zone_(North_America)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/postalCode","36037"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Butler_County,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/utcOffset","-6"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/type","http://dbpedia.org/resource/City_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/areaCode","334"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/areaCode",334
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/mapCaption","Location in Butler County and the state of Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/timezoneDst","CDT"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/utcOffsetDst",-5
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/postalCode",36037
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/areaWaterKm",0.5
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/subdivisionType","State"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/subdivisionType","Country"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/populationTotal",8135
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/elevationFt",440
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/postalCodeType","http://dbpedia.org/resource/ZIP_code"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/areaLandKm",55.3
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/lats",52
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/coordinatesRegion","US-AL"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/areaTotalKm",55.8
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/subdivisionName","United States"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Butler_County,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/blankInfo",1
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/settlementType","http://dbpedia.org/resource/City_(Alabama)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/officialName","Greenville, Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/mapsize",250
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/longs",39
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/blank1Info",119376
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.southalabamanews.com"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.greenville-alabama.com"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.fortdale.com"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.thegreenvillestandard.com/"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.salon.com/opinion/feature/2004/12/21/alabama/"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://butlerco.k12.al.us/"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.greenvilleadvocate.com"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.greenvilleadvocate.com/"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Butler_County,_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Populated_places_established_in_1819"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:County_seats_in_Alabama"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2003/01/geo/wgs84_pos#long","-86.62750244140625"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.w3.org/2003/01/geo/wgs84_pos#lat","31.83111190795898"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://www.georss.org/georss/point","31.83111111111111 -86.6275"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/elevationM",134
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/imageSkyline","Greenville AL Butler Co Court House.JPG"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/nickname","Camellia City"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/areaWater",500000
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/areaLand",55300000
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/Central_Time_Zone_(North_America)"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/abstract","Greenville is a city in Butler County, Alabama, United States. At the 2010 census, the population was 8,135. The city is the county seat of Butler County and is known as the Camellia City. The movement to change the official Alabama state flower from the goldenrod to the camellia originated in Greenville."
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/abstract","Template:Infobox settlementGreenville is a city in Butler County, Alabama, United States. At the 2010 census, the population was 8,135. The city is the county seat of Butler County and is known as the Camellia City. The movement to change the official Alabama state flower from the goldenrod to the camellia originated in Greenville."
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExtracted",2014-07-31 08:56:51
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageExtracted",2014-01-11 12:10:48
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageRevisionLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Alabama&oldid=619093003"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageModified",2014-07-30 07:20:32
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageHistoryLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Alabama&action=history"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageEditLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Alabama&action=edit"
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageLength",16202
+"http://dbpedia.org/resource/Greenville,_Alabama","http://dbpedia.org/ontology/wikiPageOutDegree",89
+"http://en.wikipedia.org/wiki/Greenville,_Alabama","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Walter_Flowers","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Walter_Flowers","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Walter_Flowers","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Greenville,_AL","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Buell-Stallings-Stewart_House","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Lurleen_B._Wallace_Community_College","http://dbpedia.org/ontology/city","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/First_Baptist_Church_(Greenville,_Alabama)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Rufus_Payne","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Rufus_Payne","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Rufus_Payne","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Johnny_Lewis_(baseball)","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Mac_Crenshaw_Memorial_Airport","http://dbpedia.org/property/cityServed","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Butler_County,_Alabama","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Alabama_State_Route_10","http://dbpedia.org/ontology/routeJunction","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/WQZX","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Janice_Rogers_Brown","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Janice_Rogers_Brown","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Janice_Rogers_Brown","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/WKXK","http://dbpedia.org/property/area","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Greenville_City_Hall_(Greenville,_Alabama)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Butler_Chapel_A.M.E._Zion_Church","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Theological_Building-A.M.E._Zion_Theological_Institute","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Oakey_Streak_Methodist_Episcopal_Church","http://dbpedia.org/ontology/nearestCity","http://dbpedia.org/resource/Greenville,_Alabama"
+"http://dbpedia.org/resource/Oakey_Streak_Methodist_Episcopal_Church","http://dbpedia.org/property/nearestCity","http://dbpedia.org/resource/Greenville,_Alabama"

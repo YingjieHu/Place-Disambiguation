@@ -1,0 +1,129 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Greenville,_IN","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://dbpedia.org/resource/Roscoe_Miller","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://dbpedia.org/resource/Roscoe_Miller","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://dbpedia.org/resource/Roscoe_Miller","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://en.wikipedia.org/wiki/Greenville,_Indiana","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://dbpedia.org/resource/Greenville","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.opengis.net/gml/_Feature"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/d0:Location"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Wikidata:Q532"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Town"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2000/01/rdf-schema#label","Greenville, Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2000/01/rdf-schema#comment","Greenville is a town in Greenville Township, Floyd County, Indiana, United States. The population was 595 at the 2010 census."
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q507585"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Greenville_(Indiana)"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2002/07/owl#sameAs","http://nl.dbpedia.org/resource/Greenville_(Indiana)"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2002/07/owl#sameAs","http://www.rdfabout.com/rdf/usgov/geo/us/in/counties/floyd_county/greenville_township/greenville"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2002/07/owl#sameAs","http://pt.dbpedia.org/resource/Greenville_(Indiana)"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Greenville,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/unitPref","Imperial"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Greenville,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageRevisionID",619093055
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageID",112245
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Infobox_settlement"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Floyd_County,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Coord"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Other_places3"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Convert"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/populationTotal",595
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/elevation",252.0696
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/elevation",252
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/populationAsOf",2010
+"http://dbpedia.org/resource/Greenville,_Indiana","http://xmlns.com/foaf/0.1/name","Town of Greenville, Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://xmlns.com/foaf/0.1/name","Town of Greenville, Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","294.5"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","294.5187265361777"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/populationDensity",294.5187265361777
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/populationDensity",294.5
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/areaTotal",2020000
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/areaTotal",2020190.72606208
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","2.02"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","2.02019072606208"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/longd",85
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/latm",22
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/longm",59
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/utcOffset",-5
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/latd",38
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaMagnitude",1000000
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/imageMap","Floyd_County_Indiana_Incorporated_and_Unincorporated_areas_Greenville_Highlighted.svg"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/populationDensitySqMi",762.8
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/populationDensityKm",294.5
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/Eastern_Daylight_Time"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/North_American_Eastern_Time_Zone"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/postalCode","47124"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Floyd_County,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Greenville_Township,_Floyd_County,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/utcOffset","-4"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/type","http://dbpedia.org/resource/Town"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/areaCode","812"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaCode",812
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/mapCaption","Location in the state of Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/timezoneDst","http://dbpedia.org/resource/Eastern_Daylight_Time"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/populationEst",603
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaWaterSqMi",0
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/utcOffsetDst",-4
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/postalCode",47124
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/popEstAsOf",2012
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaWaterKm",0
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_townships_in_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/Political_divisions_of_the_United_States"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_countries"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/populationTotal",595
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/elevationFt",827
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/postalCodeType","http://dbpedia.org/resource/ZIP_code"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaLandKm",2.02
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/lats",22
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/coordinatesDisplay","inline,title"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaTotalSqMi",0.78
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaTotalKm",2.02
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Greenville_Township,_Floyd_County,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Floyd_County,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/blankInfo",18
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/settlementType","http://dbpedia.org/resource/Town"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/officialName","Town of Greenville, Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/areaLandSqMi",0.78
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/mapsize",250
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/longs",19
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/blank1Info",435458
+"http://dbpedia.org/resource/Greenville,_Indiana","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Towns_in_Floyd_County,_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Louisville_metropolitan_area"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Towns_in_Indiana"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2003/01/geo/wgs84_pos#long","-85.98860931396484"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.w3.org/2003/01/geo/wgs84_pos#lat","38.37277603149414"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://www.georss.org/georss/point","38.37277777777778 -85.98861111111111"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/elevationM",252
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/coordinatesType","region:US_type:city"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/PopulatedPlace/area","1.0E-6"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/area",1
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/country","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/areaWater",0
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/areaLand",2020190.72606208
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/areaLand",2020000
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/North_American_Eastern_Time_Zone"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/abstract","Greenville is a town in Greenville Township, Floyd County, Indiana, United States. The population was 595 at the 2010 census."
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageExtracted",2014-07-31 08:57:22
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageExtracted",2014-05-18 17:10:59
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageExtracted",2014-03-24 07:37:58
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageRevisionLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Indiana&oldid=619093055"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageModified",2014-07-30 07:20:50
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageHistoryLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Indiana&action=history"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageEditLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Indiana&action=edit"
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageLength",10738
+"http://dbpedia.org/resource/Greenville,_Indiana","http://dbpedia.org/ontology/wikiPageOutDegree",59
+"http://dbpedia.org/resource/Simpson_Memorial_United_Methodist_Church_(Greenville,_Indiana)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://dbpedia.org/resource/Greenville,_In","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Greenville,_Indiana"
+"http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Floyd_County,_Indiana","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Indiana"

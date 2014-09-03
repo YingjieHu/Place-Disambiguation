@@ -1,0 +1,165 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Alney_McLean","http://dbpedia.org/ontology/deathPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Alney_McLean","http://dbpedia.org/property/deathPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Alney_McLean","http://dbpedia.org/property/placeOfDeath","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/South_Cherry_Street_Historic_District_(Greenville,_Kentucky)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Jonathan_E._Spilman","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Jonathan_E._Spilman","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Vernard_Eugene_Bivin","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Vernard_Eugene_Bivin","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Vernard_Eugene_Bivin","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Edward_Rumsey","http://dbpedia.org/ontology/deathPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Edward_Rumsey","http://dbpedia.org/property/deathPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Edward_Rumsey","http://dbpedia.org/property/placeOfDeath","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/North_Main_Street_Historic_District_(Greenville,_Kentucky)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Ray_Harper","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Ray_Harper","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Greenville","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Wikidata:Q532"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/City"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/City"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/d0:Location"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2000/01/rdf-schema#label","Greenville, Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2000/01/rdf-schema#comment","Greenville is a city in Muhlenberg County, Kentucky, in the United States. It is the seat of its county. The population was 4,312 at the 2010 census."
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2000/01/rdf-schema#comment","Template:Infobox settlementGreenville is a city in Muhlenberg County, Kentucky, in the United States. It is the seat of its county. The population was 4,312 at the 2010 census."
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2002/07/owl#sameAs","http://pt.dbpedia.org/resource/Greenville_(Kentucky)"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2002/07/owl#sameAs","http://it.dbpedia.org/resource/Greenville_(Kentucky)"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2002/07/owl#sameAs","http://nl.dbpedia.org/resource/Greenville_(Kentucky)"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2002/07/owl#sameAs","http://www.rdfabout.com/rdf/usgov/geo/us/ky/counties/muhlenberg_county/greenville"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Greenville_(Kentucky)"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q1991013"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2002/07/owl#sameAs","http://ru.dbpedia.org/resource/Гринвилль_(Кентукки)"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageRevisionID",619093066
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageID",115373
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Kentucky_county_seats"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Hatnote"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Reflist"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Muhlenberg_County,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Convert"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Col_div"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Col_div_end"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Coord"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Infobox_settlement"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/populationTotal",4312
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/elevation",160
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/elevation",160.02
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/populationAsOf",2010
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/imageCaption","The courthouse in Greenville."
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/establishedTitle","Settled"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/establishedTitle","Incorporated"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://xmlns.com/foaf/0.1/name","Greenville"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://xmlns.com/foaf/0.1/name","Greenville"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/areaTotal",12431942.9296128
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/areaTotal",12400000
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","12.4"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","12.4319429296128"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/leaderTitle","Mayor"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/leaderTitle","Mayor"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/leaderTitle","Mayor"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/longd",87
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/latm",12
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/longm",10
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/utcOffset",-6
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/latd",37
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/establishedDate",1848
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/establishedDate",1812
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/imageMap","KYMap-doton-Greenville.PNG"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/leaderName","Eddie DeArmond"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/imageFlag","Flag of Greenville Kentucky.PNG"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/Central_Time_Zone"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/postalCode","42345"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Muhlenberg_County,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/utcOffset","-6"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/type","http://dbpedia.org/resource/List_of_cities_in_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/areaCode","270 & 364"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/areaCode",270
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/mapCaption","Location of Greenville within Kentucky."
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/timezoneDst","CDT"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/areaWaterSqMi",0
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/utcOffsetDst",-5
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/postalCode",42345
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/areaWaterKm",0
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/Political_divisions_of_the_United_States"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_countries"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/populationTotal",4312
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/elevationFt",525
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/postalCodeType","ZIP Code"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/areaLandKm",12.4
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/lats",26
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/coordinatesDisplay","inline,title"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/areaTotalSqMi",4.8
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/areaTotalKm",12.4
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Muhlenberg_County,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/blankInfo",21
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/settlementType","http://dbpedia.org/resource/List_of_cities_in_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/officialName","Greenville"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/areaLandSqMi",4.8
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/mapsize",250
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/longs",35
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/blank1Info",493344
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.muhlenbergchamber.org"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Populated_places_established_in_1799"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:County_seats_in_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:1799_establishments_in_the_United_States"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Muhlenberg_County,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Kentucky"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2003/01/geo/wgs84_pos#long","-87.1763916015625"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.w3.org/2003/01/geo/wgs84_pos#lat","37.20722198486328"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://www.georss.org/georss/point","37.20722222222222 -87.1763888888889"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/elevationM",160
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/imageSkyline","Muhlenberg County Courthouse.jpg"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/coordinatesType","region:US_type:city"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/namedFor","or nearby forests"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/namedFor","http://dbpedia.org/resource/Nathanael_Greene"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/namedFor","http://dbpedia.org/resource/General_officers_in_the_United_States"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/country","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/areaWater",0
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/areaLand",12431942.9296128
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/areaLand",12400000
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/Central_Time_Zone"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/abstract","Template:Infobox settlementGreenville is a city in Muhlenberg County, Kentucky, in the United States. It is the seat of its county. The population was 4,312 at the 2010 census."
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/abstract","Greenville is a city in Muhlenberg County, Kentucky, in the United States. It is the seat of its county. The population was 4,312 at the 2010 census."
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageExtracted",2014-04-26 00:58:29
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageExtracted",2014-07-31 08:57:23
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageRevisionLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Kentucky&oldid=619093066"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageModified",2014-07-30 07:20:54
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageHistoryLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Kentucky&action=history"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageEditLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Kentucky&action=edit"
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageLength",10140
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageOutDegree",66
+"http://dbpedia.org/resource/Greenville,_Kentucky","http://dbpedia.org/ontology/wikiPageCharacterSize",9613
+"http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Muhlenberg_County,_Kentucky","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Greenville_Commercial_Historic_District_(Greenville,_Kentucky)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Martin_House_(Greenville,_Kentucky)","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Muhlenberg_South_High_School","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/WKYA","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://en.wikipedia.org/wiki/Greenville,_Kentucky","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Muhlenberg_County,_Kentucky","http://dbpedia.org/ontology/countySeat","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Greenville,_KY","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Miles_Heizer","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Miles_Heizer","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Miles_Heizer","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Old_Muhlenberg_County_Jail","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/George_Short_House","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Muhlenberg_County_Courthouse","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Ephraim_McLean_Brank","http://dbpedia.org/ontology/deathPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Ephraim_McLean_Brank","http://dbpedia.org/property/deathPlace","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Ephraim_McLean_Brank","http://dbpedia.org/property/placeOfDeath","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Rice_Tobacco_Factory","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Kentucky"
+"http://dbpedia.org/resource/Brent_Yonts","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Kentucky"

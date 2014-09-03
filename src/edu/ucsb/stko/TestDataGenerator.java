@@ -1,4 +1,4 @@
-package com.esri.apl;
+package edu.ucsb.stko;
 
 import java.io.BufferedReader;
 import java.io.File;

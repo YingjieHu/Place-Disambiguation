@@ -1,0 +1,147 @@
+"subject","predicate","object"
+"http://dbpedia.org/resource/Georgia_State_Route_100","http://dbpedia.org/ontology/routeStart","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Georgia_State_Route_109","http://dbpedia.org/ontology/routeJunction","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/WALR-FM","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://en.wikipedia.org/wiki/Greenville,_Georgia","http://xmlns.com/foaf/0.1/primaryTopic","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Robert_Brown_(Georgia_politician)","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville","http://dbpedia.org/ontology/wikiPageDisambiguates","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/PopulatedPlace"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Wikidata:Q532"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/Place"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/City"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://schema.org/City"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Settlement"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://www.opengis.net/gml/_Feature"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/Place"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/1999/02/22-rdf-syntax-ns#type","http://dbpedia.org/ontology/d0:Location"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2000/01/rdf-schema#label","Greenville, Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2000/01/rdf-schema#comment","Greenville is a city in Meriwether County, Georgia, United States. The population was 946 at the 2000 census. The city is the county seat of Meriwether County. 54.9 miles (88.4 km) southwest of Atlanta. It is part of the Atlanta metropolitan area (Atlanta-Sandy Springs-Marietta, Georgia Metropolitan Statistical Area)."
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2002/07/owl#sameAs","http://es.dbpedia.org/resource/Greenville_(Georgia)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2002/07/owl#sameAs","http://www.wikidata.org/entity/Q2416565"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2002/07/owl#sameAs","http://nl.dbpedia.org/resource/Greenville_(Georgia)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2002/07/owl#sameAs","http://pt.dbpedia.org/resource/Greenville_(Geórgia)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2002/07/owl#sameAs","http://fr.dbpedia.org/resource/Greenville_(Géorgie)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/hasPhotoCollection","http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/unitPref","Imperial"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://xmlns.com/foaf/0.1/homepage","http://www.cityofgreenvillega.com"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://xmlns.com/foaf/0.1/isPrimaryTopicOf","http://en.wikipedia.org/wiki/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageRevisionID",619093046
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageRevisionID",593821083
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageID",110252
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Portal"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Convert"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Meriwether_County,_Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Coord"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Infobox_settlement"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/wikiPageUsesTemplate","http://dbpedia.org/resource/Template:Other_places3"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/populationTotal",876
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/elevation",265
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/elevation",264.8712
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/populationAsOf",2010
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/imageCaption","--03-16"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://xmlns.com/foaf/0.1/name","Greenville, Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","201.3"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/PopulatedPlace/populationDensity","202.93529452990956"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/populationDensity",201.3
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/populationDensity",202.9352945299096
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/areaTotal",4700000
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/areaTotal",4661978.5986048
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","4.6619785986048"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/PopulatedPlace/areaTotal","4.7"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/longd",84
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/latm",1
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/latns","N"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/longew","W"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/longm",42
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/utcOffset",-5
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/latd",33
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/imageMap","Meriwether_County_Georgia_Incorporated_and_Unincorporated_areas_Greenville_Highlighted.svg"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/populationDensitySqMi",525.6
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/populationDensityKm",201.3
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/timeZone","http://dbpedia.org/resource/North_American_Eastern_Time_Zone"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/postalCode","30222"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Meriwether_County,_Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/isPartOf","http://dbpedia.org/resource/Georgia_(U.S._state)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/utcOffset","-4"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/utcOffset","-5"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/type","http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/areaCode","706"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/areaCode",706
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/blank1Name","GNIS feature ID"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/mapCaption","Location in Meriwether County and the state of Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/timezoneDst","EDT"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/areaWaterSqMi",0
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/utcOffsetDst",-4
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/postalCode",30222
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/areaWaterKm",0
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_counties_in_Georgia_(U.S._state)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/List_of_countries"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/subdivisionType","http://dbpedia.org/resource/Political_divisions_of_the_United_States"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/populationTotal",876
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/elevationFt",869
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/postalCodeType","http://dbpedia.org/resource/ZIP_code"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/areaLandKm",4.7
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/lats",40
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/coordinatesDisplay","inline,title"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/areaTotalSqMi",1.8
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/areaTotalKm",4.7
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Meriwether_County,_Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/subdivisionName","http://dbpedia.org/resource/Georgia_(U.S._state)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/blankInfo",13
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/blankName","http://dbpedia.org/resource/Federal_Information_Processing_Standard"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/settlementType","http://dbpedia.org/resource/City"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/officialName","Greenville, Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/areaLandSqMi",1.8
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/mapsize",250
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/longs",49
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/blank1Info",356105
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.cityofgreenvillega.com/"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageExternalLink","http://www.cityofgreenvillega.com"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Georgia_(U.S._state)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:County_seats_in_Georgia_(U.S._state)"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://purl.org/dc/terms/subject","http://dbpedia.org/resource/Category:Cities_in_Meriwether_County,_Georgia"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2003/01/geo/wgs84_pos#long","-84.71360778808594"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.w3.org/2003/01/geo/wgs84_pos#lat","33.02777862548828"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://www.georss.org/georss/point","33.02777777777778 -84.7136111111111"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/elevationM",265
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/imageSkyline","GREENVILLE, GA.jpg"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/coordinatesType","region:US_type:city"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/country","http://dbpedia.org/resource/United_States"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/areaWater",0
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/areaLand",4661978.5986048
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/areaLand",4700000
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/property/timezone","http://dbpedia.org/resource/North_American_Eastern_Time_Zone"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/abstract","Greenville is a city in Meriwether County, Georgia, United States. The population was 946 at the 2000 census. The city is the county seat of Meriwether County. 54.9 miles (88.4 km) southwest of Atlanta. It is part of the Atlanta metropolitan area (Atlanta-Sandy Springs-Marietta, Georgia Metropolitan Statistical Area)."
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageExtracted",2014-05-27 20:40:24
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageExtracted",2014-07-31 08:57:19
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageRevisionLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Georgia&oldid=619093046"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageRevisionLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Georgia&oldid=593821083"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageModified",2014-07-30 07:20:45
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageModified",2014-02-04 01:33:17
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageHistoryLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Georgia&action=history"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageEditLink","http://en.wikipedia.org/w/index.php?title=Greenville,_Georgia&action=edit"
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageLength",11970
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageLength",12921
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageOutDegree",57
+"http://dbpedia.org/resource/Greenville,_Georgia","http://dbpedia.org/ontology/wikiPageOutDegree",58
+"http://dbpedia.org/resource/Meriwether_County,_Georgia","http://dbpedia.org/property/seat","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Joseph_M._Terrell","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Joseph_M._Terrell","http://dbpedia.org/property/birthPlace","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Joseph_M._Terrell","http://dbpedia.org/property/placeOfBirth","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Georgia_State_Route_18","http://dbpedia.org/ontology/routeJunction","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Eli_Robinson","http://dbpedia.org/ontology/birthPlace","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville,_GA","http://dbpedia.org/ontology/wikiPageRedirects","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville_High_School_(Greenville,_Georgia)","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville_High_School_(Greenville,_Georgia)","http://dbpedia.org/ontology/city","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Georgia_State_Route_362","http://dbpedia.org/ontology/routeStart","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville_Presbyterian_Church_and_Cemetery","http://dbpedia.org/ontology/nearestCity","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Greenville_Presbyterian_Church_and_Cemetery","http://dbpedia.org/property/nearestCity","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Meriwether_County,_Georgia","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Meriwether_County_School_District","http://dbpedia.org/property/city","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Meriwether_County_School_District","http://dbpedia.org/ontology/city","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/2012%E2%80%9313_Georgia_Bulldogs_basketball_team","http://dbpedia.org/property/home","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Sons_of_Thundr_(Faith_Baptist_Church)","http://dbpedia.org/property/location","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/2011%E2%80%9312_Georgia_Bulldogs_basketball_team","http://dbpedia.org/property/home","http://dbpedia.org/resource/Greenville,_Georgia"
+"http://dbpedia.org/resource/Meriwether_County_Courthouse","http://dbpedia.org/ontology/location","http://dbpedia.org/resource/Greenville,_Georgia"
