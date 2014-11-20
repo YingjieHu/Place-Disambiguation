@@ -3,5 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/home/yingjie/Software/opencsv-2.3/deploy/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-9.3-1102.jdbc41.jar"/>
+	<classpathentry kind="lib" path="lib/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="lib/mallet.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
