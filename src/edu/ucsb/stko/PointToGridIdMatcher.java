@@ -17,13 +17,13 @@ public class PointToGridIdMatcher {
     String dbUser = "pdisambig";
     String dbPasswd = "l+>yVcKy+8e&,P";
     
-    public PointToGridIdMatcher(String dbUrl, String dbUser, String dbPasswd) throws SQLException {
+    public PointToGridIdMatcher(String dbUrl, String dbUser, String dbPasswd) {
         this.dbUrl = dbUrl;
         this.dbUser = dbUser;
         this.dbPasswd = dbPasswd;
     }
     
-    public PointToGridIdMatcher() throws SQLException {
+    public PointToGridIdMatcher() {
     }
     
     public int[] getGridIds(ArrayList<Candidate> candidates) throws SQLException {
