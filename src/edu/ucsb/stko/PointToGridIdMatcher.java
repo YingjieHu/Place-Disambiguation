@@ -35,7 +35,7 @@ public class PointToGridIdMatcher {
             Statement st = conn.createStatement();
             ResultSet rs = st.executeQuery(q);
             while (rs.next()) { // should be only 1
-                gridIds[i] = rs.getInt(0);
+                gridIds[i] = rs.getInt(1);
                 break;
             }
             rs.close();
