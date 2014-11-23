@@ -101,7 +101,7 @@ public class TestDataGenerator
 	    Pattern re = Pattern.compile("[^.!?][^.!?]*(?:[.!?](?!['\"]?\\s|$)[^.!?]*)*[.!?]?['\"]?(?=\\s|$)", Pattern.MULTILINE | Pattern.COMMENTS);
 	    Matcher reMatcher = re.matcher(paragraph);
 	    
-	    Vector<String> resultSentencesVector = new Vector<>();
+	    Vector<String> resultSentencesVector = new Vector<String>();
 	    while (reMatcher.find()) {
 	    	resultSentencesVector.add(reMatcher.group());
 	    }

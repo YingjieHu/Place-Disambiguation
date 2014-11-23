@@ -11,7 +11,9 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 import java.util.Vector;
 
-import au.com.bytecode.opencsv.CSVReader;
+import com.opencsv.CSVReader;
+
+//import au.com.bytecode.opencsv.CSVReader;
 
 public class ModelTrainer 
 {
@@ -41,7 +43,7 @@ public class ModelTrainer
 			BufferedReader testFileBufferedReader = new BufferedReader(testFileReader);
 			
 			// calculate prior probability
-			Hashtable<String, Double> priorProbabilityTable = new Hashtable<>();
+			Hashtable<String, Double> priorProbabilityTable = new Hashtable<String,Double>();
 			String inputLineString = null;
 			double totalCount = 0;
 			while((inputLineString = testFileBufferedReader.readLine())!= null)
@@ -175,7 +177,7 @@ public class ModelTrainer
 		try 
 		{
 			// calculate concept matching score
-			Hashtable<String, Double> conceptMatchHashtable = new Hashtable<>();
+			Hashtable<String, Double> conceptMatchHashtable = new Hashtable<String, Double>();
 			Enumeration<String> cityNamesEnumeration = cityConceptIDFTable.keys();
 			
 			double minEvaluationScore = 1;
@@ -241,7 +243,7 @@ public class ModelTrainer
 			cityDescription = StopWordsRemover.removeStopWords(cityDescription);
 			
 			// now begin to construct a hashtable to represent the description 
-			Hashtable<String, Double> descriptionHashtable = new Hashtable<>();
+			Hashtable<String, Double> descriptionHashtable = new Hashtable<String, Double>();
 			StringTokenizer descContentTokenizer = new StringTokenizer(cityDescription);
 			
 			while (descContentTokenizer.hasMoreTokens()) 
@@ -278,7 +280,7 @@ public class ModelTrainer
 			
 			
 			Enumeration<String> cityEnumeration = cityTFIDFTable.keys();
-			Hashtable<String, Double> cityContextEvaluationTable = new Hashtable<>();
+			Hashtable<String, Double> cityContextEvaluationTable = new Hashtable<String, Double>();
 			minEvaluationScore = 1;
 			maxEvaluationScore = 0;
 			while(cityEnumeration.hasMoreElements())
@@ -297,7 +299,7 @@ public class ModelTrainer
 			
 			
 			
-			PriorityQueue<CityScore> priorityQueue = new PriorityQueue<>(10,cityComparator);
+			PriorityQueue<CityScore> priorityQueue = new PriorityQueue<CityScore>(10,cityComparator);
 			
 			// now do normalization
 			cityEnumeration = cityContextEvaluationTable.keys();
@@ -320,7 +322,7 @@ public class ModelTrainer
 			
 			
 			// calculate the output places
-			Vector<String> resultVector = new Vector<>();
+			Vector<String> resultVector = new Vector<String>();
 			CityScore[] candidateCities = new CityScore[priorityQueue.size()];
 			int candidateIndex = 0;
 	
@@ -426,7 +428,7 @@ public class ModelTrainer
 	
 	public static Vector<String> disambiguateUsingPriorAlone(Hashtable<String, Double> priorProbabilityTable)
 	{
-		Vector<String> predictionResultVector = new Vector<>();
+		Vector<String> predictionResultVector = new Vector<String>();
 		
 		Enumeration<String> cityNamesEnumeration = priorProbabilityTable.keys();
 		
@@ -461,7 +463,7 @@ public class ModelTrainer
 			File wikiFolder = new File("originWikipedia");
 			File[] wikiFiles = wikiFolder.listFiles();
 			
-			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<>();
+			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<String, Hashtable<String, Double>>();
 			
 			for (int i = 0; i < wikiFiles.length; i++) 
 			{
@@ -485,7 +487,7 @@ public class ModelTrainer
 				wikiContent = StopWordsRemover.removeStopWords(wikiContent);
 				
 				StringTokenizer wikiContentTokenizer = new StringTokenizer(wikiContent);
-				Hashtable<String, Double> thisCityHashtable = new Hashtable<>();
+				Hashtable<String, Double> thisCityHashtable = new Hashtable<String, Double>();
 				while (wikiContentTokenizer.hasMoreTokens()) 
 				{
 					String thisToken =  ensureSingular(wikiContentTokenizer.nextToken()).trim();
@@ -525,7 +527,7 @@ public class ModelTrainer
 			File dbpediaFolder = new File("originDBpedia");
 			File[] dbFiles = dbpediaFolder.listFiles();
 			
-			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<>();
+			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<String, Hashtable<String, Double>>();
 			
 			for (int i = 0; i < dbFiles.length; i++) 
 			{
@@ -538,7 +540,7 @@ public class ModelTrainer
 				CSVReader reader = new CSVReader(thisDBFileReader);
 			  
 				String[] inputLine = reader.readNext();
-				Hashtable<String, Double> thisCityHashtable = new Hashtable<>();
+				Hashtable<String, Double> thisCityHashtable = new Hashtable<String, Double>();
 				while ((inputLine = reader.readNext()) != null) 
 				{	
 					String subjectString = inputLine[0];
@@ -626,7 +628,7 @@ public class ModelTrainer
 			File dbpediaFolder = new File("originDBpedia");
 			File[] dbFiles = dbpediaFolder.listFiles();
 			
-			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<>();
+			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<String, Hashtable<String, Double>>();
 			
 			for (int i = 0; i < dbFiles.length; i++) 
 			{
@@ -637,7 +639,7 @@ public class ModelTrainer
 				CSVReader reader = new CSVReader(thisDBFileReader);
 			  
 				String[] inputLine = reader.readNext();
-				Hashtable<String, Double> thisCityHashtable = new Hashtable<>();
+				Hashtable<String, Double> thisCityHashtable = new Hashtable<String, Double>();
 				while ((inputLine = reader.readNext()) != null) 
 				{				
 					String objectString = inputLine[2];
@@ -645,7 +647,7 @@ public class ModelTrainer
 					if(objectString.length()<2)
 						continue;
 					
-					Vector<String> objectProcessedValues = new Vector<>();
+					Vector<String> objectProcessedValues = new Vector<String>();
 					
 					if(objectString.matches("\\d+"))
 					{
@@ -723,7 +725,7 @@ public class ModelTrainer
 		{
 			Enumeration<String> cityNamesEnumeration = hashtable1.keys();
 			
-			Hashtable<String, Hashtable<String, Double>> combinedTable = new Hashtable<>();
+			Hashtable<String, Hashtable<String, Double>> combinedTable = new Hashtable<String, Hashtable<String, Double>>();
 			while(cityNamesEnumeration.hasMoreElements())
 			{
 				String thisCityName = cityNamesEnumeration.nextElement();
