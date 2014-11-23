@@ -29,14 +29,14 @@ public class TopicModelMatchTester {
                    topicVector[topic] = value;
                }
            }
-           String[] gids = lineS[1].substring(1, lineS.length-1).split(",");
+           String[] gids = lineS[1].substring(1, lineS[1].length()-1).split(",");
            for (String gid : gids) {
                gridIdTopicVectors.put(Integer.parseInt(gid), topicVector);
            }
         }
         br.close();
         
-        TopicInferencerForShortText inferencer = new TopicInferencerForShortText();
+        TopicInferencerForShortText inferencer = new TopicInferencerForShortText("fuller7_200.inferencer","fuller7.mallet");
         PointToGridIdMatcher gridIdMatcher = new PointToGridIdMatcher();
         String shortText = "Washington's icy nights forced the Bobcats into human settlements";
         Candidate[] candidates = {
