@@ -31,7 +31,7 @@ public class PointToGridIdMatcher {
         int[] gridIds = new int[candidates.size()];
         
         for (int i = 0; i < candidates.size(); i++) {
-            String q = "SELECT gid FROM trigrid.fuller4t7 WHERE ST_Intersects(geom, SELECT ST_SetSRID(ST_MakePoint("+candidates.get(i).getLongitude()+", "+candidates.get(i).getLatitude()+"),4326)) AND ST_Length(ST_LongestLine(geom,geom)) < 300";
+            String q = "SELECT gid FROM trigrid.fuller4t7 WHERE ST_Intersects(geom, ST_SetSRID(ST_MakePoint("+candidates.get(i).getLongitude()+", "+candidates.get(i).getLatitude()+"),4326)) AND ST_Length(ST_LongestLine(geom,geom)) < 300";
             Statement st = conn.createStatement();
             ResultSet rs = st.executeQuery(q);
             while (rs.next()) { // should be only 1
