@@ -1,7 +1,5 @@
-Place-Disambiguation
-====================
-
-Combining Wikipedia and DBpedia for Place Name Disambiguation in Short Text
+## Place-Disambiguation: 
+#### Combining Wikipedia and DBpedia for Place Name Disambiguation in Short Text
 
 Program:
 This project provides source code for disambiguating place names from short text. DBpedia and Wikipedia are combined as the background knowledge for place name disambiguation. To run the source code, you need to have the library of opencsv.jar (http://code.google.com/p/opencsv/downloads/detail?name=opencsv-2.4.jar&can=2&q=), which is used to read csv files.
