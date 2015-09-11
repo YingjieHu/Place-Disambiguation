@@ -10,7 +10,7 @@ TestDataGenerator.java: This class divides the natural langauge paragraphs from 
 
 ModelTrainer.java: This class trains a combined model based the description in our corresponding paper. It then applies the model to the generated test data.
 
-### Included Data: 
+### Data
 The ground truth data is also provided in this project for further testing. The ground truth data contain two common place names in the U.S.: "Washington" and "Greenville". The ground truth data is organized into three folders:
 originDBpedia: data downloaded from the DBpedia pages as triples. File format is .csv
 originGovData: natural language descriptions retrieved from cities' government websites.
