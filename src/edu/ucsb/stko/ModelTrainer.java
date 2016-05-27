@@ -2,11 +2,16 @@ package edu.ucsb.stko;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Enumeration;
 import java.util.Hashtable;
+import java.util.Iterator;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 import java.util.Vector;
@@ -22,148 +27,153 @@ public class ModelTrainer
 	{
 		try 
 		{
-			String newlineSymbol = System.getProperty("line.separator");
-			
-			// set target city
-			String disambiguationTarget = "washington";
-			
-			// construct model
-			
-			Hashtable<String, Hashtable<String, Double>> wikiModelHashtable = trainModelUsingWikipedia(disambiguationTarget);
-			Hashtable<String, Hashtable<String, Double>> dbpediaModelHashtable = trainModelUsingDBpedia(disambiguationTarget);
-			Hashtable<String, Hashtable<String, Double>> resultModelHashtable = wikiModelHashtable;//combineHashtables(wikiModelHashtable, dbpediaModelHashtable);
-			resultModelHashtable = calculateTFIDF(resultModelHashtable);
-			
-			Hashtable<String, Hashtable<String, Double>> dbpediaConceptModelHashtable = trainConceptModelUsingDBpedia(disambiguationTarget);
-			Hashtable<String, Hashtable<String, Double>> conceptIDFTable = calculateTFIDF(dbpediaConceptModelHashtable);
-			
-			// open test file
-			File testFile = new File("testData.txt");
-			FileReader testFileReader = new FileReader(testFile);
-			BufferedReader testFileBufferedReader = new BufferedReader(testFileReader);
-			
-			// calculate prior probability
-			Hashtable<String, Double> priorProbabilityTable = new Hashtable<String,Double>();
-			String inputLineString = null;
-			double totalCount = 0;
-			while((inputLineString = testFileBufferedReader.readLine())!= null)
-			{
-				String[] thisRecordInfo = inputLineString.split("\\|");
-				String cityName = thisRecordInfo[0];
-				Double recordCount = priorProbabilityTable.get(cityName);
-				if(recordCount == null)
-					recordCount = new Double(0);
-				
-				priorProbabilityTable.put(cityName, recordCount+1);
-				totalCount = totalCount + 1;
-			}
-			testFileBufferedReader.close();
-			
-			Enumeration<String> cityEnumeration = priorProbabilityTable.keys();
-			while(cityEnumeration.hasMoreElements())
-			{
-				String cityName = cityEnumeration.nextElement();
-				priorProbabilityTable.put(cityName, priorProbabilityTable.get(cityName)/totalCount);
-			}
 			
 			
-			File outputFile = new File("Washington_Wikipedia_only.csv");
-			if(outputFile.exists())
-			{
-				outputFile.delete();
-				outputFile.createNewFile();
-			}
-			FileWriter outputFileWriter = new FileWriter(outputFile,true);
-			//outputFileWriter.append("precision,recall,sensitive"+newlineSymbol);
+			conceptCocurrencyModel("Located in Hempstead County, this small town is home to Historic Washington State Park.", true);
 			
 			
-			
-			double lampda = 0.45;
-			double highestPrecison = 0;
-			double highestPrecisionLapmda = 0;
-			
-			double sensitiveParameter = -1; 
-			
-			for(sensitiveParameter= 0; sensitiveParameter<=1.000011;sensitiveParameter+=0.00001)
-			{
-				testFile = new File("testData.txt");
-				testFileReader = new FileReader(testFile);
-				testFileBufferedReader = new BufferedReader(testFileReader);
-				
-				inputLineString = null;
-				double correctNum = 0;
-				double totalRetrieved = 0;
-				while((inputLineString = testFileBufferedReader.readLine())!= null)
-				{
-					String[] recordInfo = inputLineString.split("\\|");
-					String trueCity =  recordInfo[0];
-					String citySentence = recordInfo[1];
-					
-					//System.out.println("True city is :"+trueCity);
-					//System.out.println("The sentence is :"+citySentence);
-					Vector<String> predictCity = disambiguateUsingTFIDFAndPrior(disambiguationTarget, citySentence, priorProbabilityTable, conceptIDFTable, resultModelHashtable, lampda, sensitiveParameter);
-					//Vector<String> predictCity = disambiguateUsingPriorAlone(priorProbabilityTable);
-					//System.out.println("Predicted is :");
-					for(int i=0;i<predictCity.size();i++)
-					{
-						String cityName = predictCity.get(i); 
-						//System.out.println(cityName);
-						
-						if(trueCity.equals(cityName))
-						{
-							correctNum++;
-						}
-						totalRetrieved++;
-					}
-					//System.out.println("-------------------------------");
-					
-					
-					//System.out.println("True city is: "+trueCity+", predicted city is: "+predictCity+", prediction is "+isCorrect+"... ");*/
-				
-				}
-				testFileBufferedReader.close();
-				
-				double thisPrecison = correctNum/(totalRetrieved+0.000001);
-				double thisRecall = correctNum/totalCount;
-				//System.out.println("retrieved "+totalRetrieved+", totalCount is "+ totalCount);
-				System.out.println("precision is "+thisPrecison+", recall is "+ thisRecall+", sensitiveParameter is "+sensitiveParameter+", lambda is "+lampda);
-				outputFileWriter.append(thisPrecison+","+thisRecall+","+sensitiveParameter+","+lampda+newlineSymbol);
-				/*if(thisPrecison>highestPrecison)
-				{
-					highestPrecison = thisPrecison;
-					highestPrecisionLapmda = lampda;
-				}*/
-				
-				//sensitiveParameter += 0.0001;
-				//lampda += 0.01;
-				
-			}
-			outputFileWriter.close();
-			
-			//System.out.println("Highest precision is: "+highestPrecison+", lampda value is: "+highestPrecisionLapmda);
-			
-			
-			
-			
-			/*
-			Enumeration<String> cityEnumeration = resultModelHashtable.keys();
-			while(cityEnumeration.hasMoreElements())
-			{
-				String cityName = cityEnumeration.nextElement();
-				System.out.println("City name is: "+cityName);
-				
-				Hashtable<String, Double> termFrequencyTable = resultModelHashtable.get(cityName);
-				
-				Enumeration<String> termStringEnumeration = termFrequencyTable.keys();
-				while(termStringEnumeration.hasMoreElements())
-				{
-					String thisTerm = termStringEnumeration.nextElement();
-					Double termCount = termFrequencyTable.get(thisTerm);
-					
-					System.out.println(" "+thisTerm+": "+termCount);
-				}
-				
-			}*/
+//			String newlineSymbol = System.getProperty("line.separator");
+//			
+//			// set target city
+//			String disambiguationTarget = "washington";
+//			
+//			// construct model
+//			
+//			Hashtable<String, Hashtable<String, Double>> wikiModelHashtable = trainModelUsingWikipedia(disambiguationTarget);
+//			Hashtable<String, Hashtable<String, Double>> dbpediaModelHashtable = trainModelUsingDBpedia(disambiguationTarget);
+//			Hashtable<String, Hashtable<String, Double>> resultModelHashtable = wikiModelHashtable;//combineHashtables(wikiModelHashtable, dbpediaModelHashtable);
+//			resultModelHashtable = calculateTFIDF(resultModelHashtable);
+//			
+//			Hashtable<String, Hashtable<String, Double>> dbpediaConceptModelHashtable = trainConceptModelUsingDBpedia(disambiguationTarget);
+//			Hashtable<String, Hashtable<String, Double>> conceptIDFTable = calculateTFIDF(dbpediaConceptModelHashtable);
+//			
+//			// open test file
+//			File testFile = new File("/home/yiting/Dropbox/STKO_ResearchProject/placeNameDisambiguation/method/Place-Disambiguation-master/WashingtonData/testData.txt");
+//			FileReader testFileReader = new FileReader(testFile);
+//			BufferedReader testFileBufferedReader = new BufferedReader(testFileReader);
+//			
+//			// calculate prior probability
+//			Hashtable<String, Double> priorProbabilityTable = new Hashtable<String,Double>();
+//			String inputLineString = null;
+//			double totalCount = 0;
+//			while((inputLineString = testFileBufferedReader.readLine())!= null)
+//			{
+//				String[] thisRecordInfo = inputLineString.split("\\|");
+//				String cityName = thisRecordInfo[0];
+//				Double recordCount = priorProbabilityTable.get(cityName);
+//				if(recordCount == null)
+//					recordCount = new Double(0);
+//				
+//				priorProbabilityTable.put(cityName, recordCount+1);
+//				totalCount = totalCount + 1;
+//			}
+//			testFileBufferedReader.close();
+//			
+//			Enumeration<String> cityEnumeration = priorProbabilityTable.keys();
+//			while(cityEnumeration.hasMoreElements())
+//			{
+//				String cityName = cityEnumeration.nextElement();
+//				priorProbabilityTable.put(cityName, priorProbabilityTable.get(cityName)/totalCount);
+//			}
+//			
+//			
+//			File outputFile = new File("Washington_Wikipedia_only.csv");
+//			if(outputFile.exists())
+//			{
+//				outputFile.delete();
+//				outputFile.createNewFile();
+//			}
+//			FileWriter outputFileWriter = new FileWriter(outputFile,true);
+//			//outputFileWriter.append("precision,recall,sensitive"+newlineSymbol);
+//			
+//			
+//			
+//			double lampda = 0.45;
+//			double highestPrecison = 0;
+//			double highestPrecisionLapmda = 0;
+//			
+//			double sensitiveParameter = -1; 
+//			
+//			for(sensitiveParameter= 0; sensitiveParameter<=1.000011;sensitiveParameter+=0.01001)
+//			{
+//				testFile = new File("/home/yiting/Dropbox/STKO_ResearchProject/placeNameDisambiguation/method/Place-Disambiguation-master/WashingtonData/testData.txt");
+//				testFileReader = new FileReader(testFile);
+//				testFileBufferedReader = new BufferedReader(testFileReader);
+//				
+//				inputLineString = null;
+//				double correctNum = 0;
+//				double totalRetrieved = 0;
+//				while((inputLineString = testFileBufferedReader.readLine())!= null)
+//				{
+//					String[] recordInfo = inputLineString.split("\\|");
+//					String trueCity =  recordInfo[0];
+//					String citySentence = recordInfo[1];
+//					
+//					//System.out.println("True city is :"+trueCity);
+//					//System.out.println("The sentence is :"+citySentence);
+//					Vector<String> predictCity = disambiguateUsingTFIDFAndPrior(disambiguationTarget, citySentence, priorProbabilityTable, conceptIDFTable, resultModelHashtable, lampda, sensitiveParameter);
+//					//Vector<String> predictCity = disambiguateUsingPriorAlone(priorProbabilityTable);
+//					//System.out.println("Predicted is :");
+//					for(int i=0;i<predictCity.size();i++)
+//					{
+//						String cityName = predictCity.get(i); 
+//						//System.out.println(cityName);
+//						
+//						if(trueCity.equals(cityName))
+//						{
+//							correctNum++;
+//						}
+//						totalRetrieved++;
+//					}
+//					//System.out.println("-------------------------------");
+//					
+//					
+//					//System.out.println("True city is: "+trueCity+", predicted city is: "+predictCity+", prediction is "+isCorrect+"... ");*/
+//				
+//				}
+//				testFileBufferedReader.close();
+//				
+//				double thisPrecison = correctNum/(totalRetrieved+0.000001);
+//				double thisRecall = correctNum/totalCount;
+//				//System.out.println("retrieved "+totalRetrieved+", totalCount is "+ totalCount);
+//				System.out.println("precision is "+thisPrecison+", recall is "+ thisRecall+", sensitiveParameter is "+sensitiveParameter+", lambda is "+lampda);
+//				outputFileWriter.append(thisPrecison+","+thisRecall+","+sensitiveParameter+","+lampda+newlineSymbol);
+//				/*if(thisPrecison>highestPrecison)
+//				{
+//					highestPrecison = thisPrecison;
+//					highestPrecisionLapmda = lampda;
+//				}*/
+//				
+//				//sensitiveParameter += 0.0001;
+//				//lampda += 0.01;
+//				
+//			}
+//			outputFileWriter.close();
+//			
+//			//System.out.println("Highest precision is: "+highestPrecison+", lampda value is: "+highestPrecisionLapmda);
+//			
+//			
+//			
+//			
+//			/*
+//			Enumeration<String> cityEnumeration = resultModelHashtable.keys();
+//			while(cityEnumeration.hasMoreElements())
+//			{
+//				String cityName = cityEnumeration.nextElement();
+//				System.out.println("City name is: "+cityName);
+//				
+//				Hashtable<String, Double> termFrequencyTable = resultModelHashtable.get(cityName);
+//				
+//				Enumeration<String> termStringEnumeration = termFrequencyTable.keys();
+//				while(termStringEnumeration.hasMoreElements())
+//				{
+//					String thisTerm = termStringEnumeration.nextElement();
+//					Double termCount = termFrequencyTable.get(thisTerm);
+//					
+//					System.out.println(" "+thisTerm+": "+termCount);
+//				}
+//				
+//			}*/
 		} 
 		catch (Exception e) 
 		{
@@ -172,11 +182,41 @@ public class ModelTrainer
 	}
 	
 	
-	public static Vector<String> disambiguateUsingTFIDFAndPrior(String disambiguateTarget, String cityDescription, Hashtable<String, Double> priorProbabilityTable,  Hashtable<String, Hashtable<String, Double>> cityConceptIDFTable, Hashtable<String, Hashtable<String, Double>> cityTFIDFTable, double lampda, double sensitiveParameter)
+	public static void conceptCocurrencyModel(String citySentence, boolean displayScores)
+	{
+		// set target city
+		String disambiguationTarget = "washington";
+		
+		// construct model
+		Hashtable<String, Hashtable<String, Double>> dbpediaConceptModelHashtable = trainConceptModelUsingDBpedia(disambiguationTarget);
+		Hashtable<String, Hashtable<String, Double>> conceptIDFTable = calculateTFIDF(dbpediaConceptModelHashtable);
+
+		
+		double sensitiveParameter = -1;
+		Vector<String> predictCity = disambiguateUsingConceptModel(disambiguationTarget, citySentence, conceptIDFTable, sensitiveParameter, displayScores);
+		
+		for(String city:predictCity)
+		{
+			System.out.println(city);
+		}
+	}
+	
+	
+	
+	/**
+	 * @return Return with a list of concept matching scores for candidate places
+	 *   
+	 * @param disambiguationTarget - the surface form. i.e., "Washington"; "Springfield".
+	 * @param cityDescription - the sentence which contains the disambiguationTarget
+	 * @param cityConceptIDFTable - the table trained from DBpedia concepts
+	 * @param sensitiveParameter - threshold over which result is accepted; -1 for only get the first result
+	 * 
+	 * */
+	public static Vector<String> disambiguateUsingConceptModel(String disambiguateTarget, String cityDescription, Hashtable<String, Hashtable<String, Double>> cityConceptIDFTable, double sensitiveParameter, boolean displayScores)
 	{
 		try 
 		{
-			// calculate concept matching score
+			// calculate concept matching score for each candidate place
 			Hashtable<String, Double> conceptMatchHashtable = new Hashtable<String, Double>();
 			Enumeration<String> cityNamesEnumeration = cityConceptIDFTable.keys();
 			
@@ -185,10 +225,6 @@ public class ModelTrainer
 			while(cityNamesEnumeration.hasMoreElements())
 			{
 				String thisCityName = cityNamesEnumeration.nextElement();
-				if(thisCityName.equals("Washington, Kansas") && cityDescription.equals("According to the United States Census Bureau, the borough has a total area of 2.0 square miles (5.1 km2).The surrounding landscape includes rolling hills as well as Pohatcong Mountain a ridge, approximately 6 mi (10 km) long, in the well known Appalachian Mountains that extends from west Phillipsburg northeast approximately to Washington."))
-				{
-					//System.out.println("here");
-				}
 				
 				Hashtable<String, Double> thisCityConceptTable = cityConceptIDFTable.get(thisCityName);
 				
@@ -233,10 +269,157 @@ public class ModelTrainer
 				conceptMatchHashtable.put(thisCityName, normalizedCityEvaluationScore);
 			}
 			
+			cityDescription = cityDescription.replaceAll("\\p{Punct}", "").toLowerCase();
+			cityDescription = cityDescription.replaceAll("\\s+", " ").trim();
+			cityDescription = StopWordsRemover.removeStopWords(cityDescription);
+
 			
+			Comparator<CityScore> cityComparator = new Comparator<CityScore>() {
+
+				public int compare(CityScore o1, CityScore o2) {
+					if(o1.scoreValue < o2.scoreValue)
+						return 1;
+					else if(o1.scoreValue > o2.scoreValue)
+						return -1;
+					else 
+						return 0;
+				}
+			};			
 			
+			PriorityQueue<CityScore> priorityQueue = new PriorityQueue<CityScore>(10,cityComparator);
 			
+			// now do normalization
+			Enumeration<String> cityEnumeration = conceptMatchHashtable.keys();
+			while (cityEnumeration.hasMoreElements()) 
+			{
+				String thisCityName = cityEnumeration.nextElement();
+	
+				double totalCandidateScore = conceptMatchHashtable.get(thisCityName);
+				
+				CityScore thisCityScore = new CityScore(thisCityName, totalCandidateScore);
+				
+				priorityQueue.add(thisCityScore);
+			}
 			
+			// Option: display city names and scores			
+			if(displayScores)
+			{
+				Iterator<CityScore> pqIter = priorityQueue.iterator();
+				while(pqIter.hasNext())
+				{
+					CityScore tempCityScore = pqIter.next();
+					System.out.println(tempCityScore.cityName + "\t" + tempCityScore.scoreValue);
+				}
+			}
+			
+			// calculate the output places
+			Vector<String> resultVector = new Vector<String>();
+			CityScore[] candidateCities = new CityScore[priorityQueue.size()];
+			int candidateIndex = 0;
+	
+			while(!priorityQueue.isEmpty())
+			{
+				CityScore thisCityScore = priorityQueue.remove();
+				candidateCities[candidateIndex] = thisCityScore;
+				candidateIndex++;
+				//resultVector.add(thisCityScore.cityName);
+				//System.out.println(thisCityScore.cityName+": "+thisCityScore.scoreValue);
+			}
+
+			if(sensitiveParameter != -1)
+			{
+				for(int i=0;i<candidateCities.length;i++)
+				{
+					if(candidateCities[i].scoreValue >= sensitiveParameter)
+						resultVector.add(candidateCities[i].cityName);
+				}
+			}
+			else
+			{
+				resultVector.add(candidateCities[0].cityName);
+			}
+			
+			return resultVector;			
+		} 
+		catch (Exception e) 
+		{
+			e.printStackTrace();
+		}
+		
+		return null;
+	}
+	
+	
+	
+	
+	/**
+	 * @return Return with a list of (words/entities matching) scores for candidate places
+	 *   
+	 * @param disambiguationTarget - the surface form. i.e., "Washington"; "Springfield".
+	 * @param cityDescription - the sentence which contains the disambiguationTarget
+	 * @param priorProbabilityTable - the prior probability table
+	 * @param cityConceptIDFTable - the table trained from DBpedia concepts
+	 * @param cityTFIDFTable - the table trained from Wikipedia concepts
+	 * @param lampda - 
+	 * @param sensitiveParameter - 
+	 * 
+	 * */
+	public static Vector<String> disambiguateUsingTFIDFAndPrior(String disambiguateTarget, String cityDescription, Hashtable<String, Double> priorProbabilityTable,  Hashtable<String, Hashtable<String, Double>> cityConceptIDFTable, Hashtable<String, Hashtable<String, Double>> cityTFIDFTable, double lampda, double sensitiveParameter)
+	{
+		try 
+		{
+			// calculate concept matching score for each candidate place
+			Hashtable<String, Double> conceptMatchHashtable = new Hashtable<String, Double>();
+			Enumeration<String> cityNamesEnumeration = cityConceptIDFTable.keys();
+			
+			double minEvaluationScore = 1;
+			double maxEvaluationScore = 0;
+			while(cityNamesEnumeration.hasMoreElements())
+			{
+				String thisCityName = cityNamesEnumeration.nextElement();
+				
+				Hashtable<String, Double> thisCityConceptTable = cityConceptIDFTable.get(thisCityName);
+				
+				Enumeration<String> thisCityConceptsEnumeration = thisCityConceptTable.keys();
+				double totalScore = 0;
+				double matchedScore = 0;
+				
+				while(thisCityConceptsEnumeration.hasMoreElements())
+				{
+					String thisConcept = thisCityConceptsEnumeration.nextElement();
+					double conceptScore = thisCityConceptTable.get(thisConcept);
+					totalScore += conceptScore;
+					if(cityDescription.contains(thisConcept))
+						matchedScore += conceptScore;
+					else
+					{
+						String[] conceptWords = thisConcept.split(" ");
+						if(conceptWords.length>1)
+						{
+							String lowercasedDescrip = cityDescription.toLowerCase();
+							if(lowercasedDescrip.contains(thisConcept.toLowerCase()))
+								matchedScore += conceptScore;
+						}
+					}
+				}
+				
+				double thisEvaluationScore = matchedScore/totalScore;
+				conceptMatchHashtable.put(thisCityName, thisEvaluationScore);
+				
+				if(thisEvaluationScore < minEvaluationScore) minEvaluationScore = thisEvaluationScore;
+				if(thisEvaluationScore > maxEvaluationScore) maxEvaluationScore = thisEvaluationScore;
+			}
+			
+			// normalize the concept values
+			cityNamesEnumeration = conceptMatchHashtable.keys();
+			while(cityNamesEnumeration.hasMoreElements())
+			{
+				String thisCityName = cityNamesEnumeration.nextElement();
+				double cityEvaluationScore = conceptMatchHashtable.get(thisCityName);
+				
+				double normalizedCityEvaluationScore = (cityEvaluationScore - minEvaluationScore) / (maxEvaluationScore - minEvaluationScore+0.000001);
+				conceptMatchHashtable.put(thisCityName, normalizedCityEvaluationScore);
+			}
 			
 			cityDescription = cityDescription.replaceAll("\\p{Punct}", "").toLowerCase();
 			cityDescription = cityDescription.replaceAll("\\s+", " ").trim();
@@ -296,7 +479,6 @@ public class ModelTrainer
 				
 				cityContextEvaluationTable.put(thisCityName, thisEvaluationScore);
 			}
-			
 			
 			
 			PriorityQueue<CityScore> priorityQueue = new PriorityQueue<CityScore>(10,cityComparator);
@@ -455,12 +637,20 @@ public class ModelTrainer
 	}
 	
 	
-	
+	/**
+	 * @return Return with a Hashtable of candidate city names, along with corresponding token and token counts.<br>
+	 *   cityName: name of candidate cities, which match the disambiguationTarget. i.e., "Washington, Kansas", "Springfield, Virgina"<br>
+	 *   token: descriptive words associated with one candidate city.<br>
+	 *   tokenCount: the count of the appearance of the associated token.<br>
+	 *   
+	 * @param disambiguationTarget - the surface form. i.e., "Washington"; "Springfield".
+	 * 
+	 * */
 	public static Hashtable<String, Hashtable<String, Double>> trainModelUsingWikipedia(String disambiguationTarget)
 	{
 		try 
 		{
-			File wikiFolder = new File("originWikipedia");
+			File wikiFolder = new File("/home/yiting/Dropbox/STKO_ResearchProject/placeNameDisambiguation/method/Place-Disambiguation-master/WashingtonData/originWikipedia");
 			File[] wikiFiles = wikiFolder.listFiles();
 			
 			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<String, Hashtable<String, Double>>();
@@ -516,6 +706,18 @@ public class ModelTrainer
 	}
 	
 	
+	/**
+	 * Return with a Hashtable of candidate city names, along with corresponding token and token counts.<br>
+	 *   Here we use DBpedia as a source and only look at triples with predefined properties
+	 *   <p>
+	 *   cityName--name of candidate cities, which match the disambiguationTarget.<br>
+	 *   __i.e., "Washington, Kansas", "Springfield, Virgina"<br>
+	 *   token--descriptive words associated with one candidate city.<br>
+	 *   tokenCount--the count of the appearance of the associated token.<br>
+	 *   <p>
+	 * @param disambiguationTarget - the surface form. i.e., "Washington"; "Springfield".
+	 * 
+	 * */
 	public static Hashtable<String, Hashtable<String, Double>> trainConceptModelUsingDBpedia(String disambiguationTarget)
 	{
 		try 
@@ -523,15 +725,13 @@ public class ModelTrainer
 			String[] propertyList = {"isPartOf","subdivisionName","deathPlace","location","birthPlace","hometown","city","etymology","placeOfDeath", "routeEnd",
 					                 "routeStart","placeOfBirth","placeofburial","district","region","state","nearestCity","seat","countySeat","wikiPageRedirects","nick","governmentType"};
 			
-			
-			File dbpediaFolder = new File("originDBpedia");
-			File[] dbFiles = dbpediaFolder.listFiles();
+			ArrayList<File> dbFiles = findDBpediaFiles(disambiguationTarget);
 			
 			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<String, Hashtable<String, Double>>();
 			
-			for (int i = 0; i < dbFiles.length; i++) 
+			for (int i = 0; i < dbFiles.size(); i++) 
 			{
-				File thisDBFile = dbFiles[i];
+				File thisDBFile = dbFiles.get(i);
 				String cityName = thisDBFile.getName().replace(".csv", "");
 				
 				String cityDBpediaName = cityName.replaceAll(" ", "_");
@@ -610,7 +810,7 @@ public class ModelTrainer
 			return resultHashtable;
 		} 
 		catch (Exception e) 
-		{
+		{		
 			e.printStackTrace();
 		}
 		
@@ -618,14 +818,22 @@ public class ModelTrainer
 	}
 	
 	
-	
-	
-	
+	/**
+	 * Return with a Hashtable of candidate city names, along with corresponding terms and terms' counts.
+	 *   <p>
+	 *   cityName--name of candidate cities, which match the disambiguationTarget.<br>
+	 *   __i.e., "Washington, Kansas", "Springfield, Virgina"<br>
+	 *   term--descriptive words associated with one candidate city.<br>
+	 *   termCount --the count of the appearance of the associated term.<br>
+	 *   <p>
+	 * @param disambiguationTarget - the surface form. i.e., "Washington"; "Springfield".
+	 * 
+	 * */
 	public static Hashtable<String, Hashtable<String, Double>> trainModelUsingDBpedia(String disambiguationTarget)
 	{
 		try 
 		{
-			File dbpediaFolder = new File("originDBpedia");
+			File dbpediaFolder = new File("/home/yiting/Dropbox/STKO_ResearchProject/placeNameDisambiguation/method/Place-Disambiguation-master/WashingtonData/originDBpedia");
 			File[] dbFiles = dbpediaFolder.listFiles();
 			
 			Hashtable<String, Hashtable<String, Double>> resultHashtable = new Hashtable<String, Hashtable<String, Double>>();
@@ -642,14 +850,14 @@ public class ModelTrainer
 				Hashtable<String, Double> thisCityHashtable = new Hashtable<String, Double>();
 				while ((inputLine = reader.readNext()) != null) 
 				{				
-					String objectString = inputLine[2];
+					String objectString = inputLine[2];	// the object of the triple
 					
-					if(objectString.length()<2)
+					if(objectString.length()<2)	// skip the first line of title
 						continue;
 					
 					Vector<String> objectProcessedValues = new Vector<String>();
 					
-					if(objectString.matches("\\d+"))
+					if(objectString.matches("\\d+"))	// matching digit
 					{
 						double numberDoubleValue = Double.parseDouble(objectString);
 						String roundedValueString = ""+Math.round(numberDoubleValue);
@@ -783,8 +991,7 @@ public class ModelTrainer
 			cityTermCountHashtable.put("city_total_term", totalNumberOfTerms);
 			inputHashtable.put(cityName, cityTermCountHashtable);
 			
-		}
-		
+		}		
 		
 		cityNameEnumeration = inputHashtable.keys();
 		while(cityNameEnumeration.hasMoreElements())
@@ -823,6 +1030,7 @@ public class ModelTrainer
 		//
 	}
 	
+	
 	public static String ensureSingular(String word)
 	{
 		//String[] result = word.split(" ");
@@ -860,10 +1068,71 @@ public class ModelTrainer
 	}
 	
 	
+	/**
+	 * Find the DBpedia training files for a place name 
+	 * 
+	 * @return a list of File objects
+	 * @param placeName
+	 */
+	public static ArrayList<File> findDBpediaFiles(String placeName)
+	{
+		File theFolder = findFolder(placeName);
+		File dbpediaFolder = new File("");
+		int counter = 0;
+		for(File subFolder: theFolder.listFiles())
+		{
+			if(subFolder.isDirectory() && subFolder.getName().equals("originDBpedia"))
+			{
+				dbpediaFolder = subFolder;
+				counter++;
+			}
+		}
+		ArrayList<File> dbpediaFiles = new ArrayList<>();
+		if(counter == 1)
+		{
+			dbpediaFiles = new ArrayList<>(Arrays.asList(dbpediaFolder.listFiles()));
+		}
+		else if(counter >1)
+		{
+			System.out.println("error: more than one dbpedia folders are found...");
+		}
+		else
+		{
+			System.out.println("error: no dbpedia folder is found...");
+		}
+		return dbpediaFiles;
+	}
 	
 	
-
+	/**
+	 * Find the folder where files related to the place name is stored
+	 * 
+	 * @return the folder object
+	 * @param placeName
+	 */
+	public static File findFolder(String placeName)
+	{
+		final String directory = "/home/yiting/Dropbox/STKO_ResearchProject/placeNameDisambiguation/method/Place-Disambiguation-master/data";
+				
+		File dbpediaFolder = new File(directory);
+		File[] dbFiles = dbpediaFolder.listFiles();
+		for(File dbFile: dbFiles)
+		{
+			if(dbFile.getName().toLowerCase().equals(placeName))
+			{
+				return dbFile;
+			}
+		}
+		System.out.println("error: no folder for " + placeName + " is found");
+		return null;
+	}
+	
+	
+	
+	
 }
+
+
 
 
 
